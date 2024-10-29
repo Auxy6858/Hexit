@@ -1,0 +1,6 @@
+Hex editor, backend written with zig, frontend made with QT.
+Command line tool also available.
+
+Why?
+  To learn more about zig and the QT framework.
+  I want a good hex editor so I'd personally benefit from completing this project.
